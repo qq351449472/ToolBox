@@ -21,7 +21,6 @@ namespace ToolBox
         {
             InterfaceTestForm interfaceTestForm = new InterfaceTestForm();
             interfaceTestForm.Show();
-            this.Hide();
         }
     }
 }

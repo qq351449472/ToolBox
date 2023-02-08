@@ -51,7 +51,7 @@
             // 
             this.rt_Address.Location = new System.Drawing.Point(129, 28);
             this.rt_Address.Name = "rt_Address";
-            this.rt_Address.Size = new System.Drawing.Size(1065, 40);
+            this.rt_Address.Size = new System.Drawing.Size(617, 40);
             this.rt_Address.TabIndex = 1;
             this.rt_Address.Text = "";
             // 
@@ -59,7 +59,7 @@
             // 
             this.rt_InPara.Location = new System.Drawing.Point(129, 74);
             this.rt_InPara.Name = "rt_InPara";
-            this.rt_InPara.Size = new System.Drawing.Size(1065, 155);
+            this.rt_InPara.Size = new System.Drawing.Size(617, 167);
             this.rt_InPara.TabIndex = 2;
             this.rt_InPara.Text = "";
             // 
@@ -67,7 +67,7 @@
             // 
             this.rt_Result.Location = new System.Drawing.Point(129, 276);
             this.rt_Result.Name = "rt_Result";
-            this.rt_Result.Size = new System.Drawing.Size(1065, 517);
+            this.rt_Result.Size = new System.Drawing.Size(617, 280);
             this.rt_Result.TabIndex = 3;
             this.rt_Result.Text = "";
             // 
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1251, 805);
+            this.ClientSize = new System.Drawing.Size(851, 592);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
